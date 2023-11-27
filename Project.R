@@ -61,7 +61,7 @@ new_df <- mutate(
 )
 
 newPrice <- function(oldCost, oldCPI, newCPI) {
-  return(oldCost * (newCPI / oldCPI))
+  return(round(oldCost * (newCPI / oldCPI)))
 }
 
 new_df <- mutate(
