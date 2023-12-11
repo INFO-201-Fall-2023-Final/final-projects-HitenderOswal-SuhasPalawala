@@ -1,0 +1,10 @@
+name: home_prices_and_homelessness
+title:
+username: hitenderoswal
+account: hitenderoswal
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10769820
+bundleId: 8033726
+url: https://hitenderoswal.shinyapps.io/home_prices_and_homelessness/
+version: 1
